@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": "Northwind.Data"
+    },
+    {
+      "path": "Northwind.Entity"
+    },
+    {
+      "path": "Northwind.Repository"
+    },
+    {
+      "path": "Northwind.Service"
+    },
+    {
+      "path": "Northwind.Api"
+    },
+    {
+      "path": "Northwind.Web"
+    },
+    {
+      "path": "Northwind.Test"
+    }
+  ],
+  "settings": {}
+}
